@@ -1,0 +1,9 @@
+{
+  "name": "click2website-build",
+  "private": true,
+  "description": "Rebuilds the optimized static site from a design-tool export: python3 build.py <exported-index.html> <output-dir>",
+  "dependencies": {
+    "esbuild": "^0.24.2",
+    "three": "^0.184.0"
+  }
+}
